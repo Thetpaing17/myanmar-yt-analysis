@@ -247,9 +247,9 @@ export default function MyanmarYouTubeAnalysis() {
       {/* Header */}
       <div style={{ maxWidth: 1100, margin: "0 auto 28px" }}>
         <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 8 }}>
-          <span style={{ fontSize: 22 }}>🇲🇲</span>
+          <span style={{ fontSize: 22 }}>🎬</span>
           <span style={{ fontSize: 10, color: "#f59e0b", textTransform: "uppercase", letterSpacing: "0.12em", fontWeight: 700 }}>
-            Myanmar Market Intelligence · 2026
+            KO THET PAING · Content Creation & Monetization Master Class
           </span>
         </div>
         <h1 style={{ fontFamily: "'Space Mono', monospace", fontSize: "clamp(20px, 3.5vw, 30px)", fontWeight: 700, color: "#f9fafb", margin: "0 0 4px", lineHeight: 1.2 }}>
